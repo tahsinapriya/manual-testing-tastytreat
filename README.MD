@@ -1,2 +1,2 @@
-Tasty Treat BD Website Manual Testing:
-Welcome to the manual testing documentation for the Tasty Treat BD website in Bangladesh. This document outlines the procedures and test cases to ensure the website's functionality, usability, and overall quality.
+Manual Testing README for https://tastytreatbd.com/
+Welcome to the manual testing documentation for the Tasty Treat BD website in Bangladesh. This document outlines the procedures and test cases to ensure the website's functionality, usability, and overall quality. This repository contains essential information and artifacts related to the manual testing process conducted on the https://tastytreatbd.com/ website.
